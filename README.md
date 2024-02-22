@@ -1,2 +1,2 @@
 # JUCE-Plugin-Examples
-Plugins created with Projucer for Kadenze course.
+Simple plugins created with Projucer.
